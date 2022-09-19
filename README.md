@@ -14,7 +14,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: (https://github.com/Felixkyle/project-nft/upload/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 ### Built with
@@ -33,5 +32,5 @@ I am looking forward to improvement with my name conventions to make my work eas
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@Felixkyle)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/@Felixkyle)
 
